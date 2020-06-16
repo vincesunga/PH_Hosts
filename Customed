@@ -1741,6 +1741,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 zh-cn.facebook.com
 0.0.0.0 zh-hk.facebook.com
 0.0.0.0 zh-tw.facebook.com
+0.0.0.0 m.facebook.com
 
 # Instagram
 0.0.0.0 api.instagram.com
