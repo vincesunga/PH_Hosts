@@ -2802,6 +2802,7 @@ ff02::3 ip6-allhosts
 # Lazada
 0.0.0.0 lazada.com.ph
 0.0.0.0 sellercenter.lazada.com.ph
+0.0.0.0 retcode-sg-lazada.arms.aliyuncs.com
 
 # Shopee
 0.0.0.0 shopee.ph
