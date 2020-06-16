@@ -2811,6 +2811,7 @@ ff02::3 ip6-allhosts
 # Shopee
 0.0.0.0 shopee.ph
 0.0.0.0 help.shopee.ph
+0.0.0.0 mall.shopee.ph
 
 # Spotify
 0.0.0.0 dealer.spotify.com
