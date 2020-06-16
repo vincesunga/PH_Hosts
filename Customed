@@ -2828,3 +2828,4 @@ ff02::3 ip6-allhosts
 0.0.0.0	audio-sp-tyo.spotifycdn.net
 0.0.0.0 spclient.wg.spotify.com
 0.0.0.0 apresolve.spotify.com
+0.0.0.0 spotify.com
