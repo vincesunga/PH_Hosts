@@ -2816,6 +2816,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 deo.shopeemobile.com
 0.0.0.0 c-api-bit.shopeemobile.com
 0.0.0.0 feeds.shopee.ph
+0.0.0.0	zconfig.alibabausercontent.com
 0.0.0.0 103.115.76.67
 0.0.0.0 152.199.39.10
 
