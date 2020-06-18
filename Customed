@@ -2850,3 +2850,13 @@ ff02::3 ip6-allhosts
 0.0.0.0 cdn.jsdelivr.net
 0.0.0.0 metrodeal.org
 0.0.0.0 metrodeal.com
+
+
+# blacklist
+#
+# The contents of this file (containing a listing of additional domains in
+# 'hosts' file format) are appended to the unified hosts file during the
+# update process. For example, uncomment the following line to block
+# 'example.com':
+
+# 0.0.0.0 example.com
