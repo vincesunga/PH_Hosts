@@ -2842,13 +2842,14 @@ ff02::3 ip6-allhosts
 0.0.0.0 job.nike.com
 0.0.0.0 about.nike.com
 0.0.0.0 nike.com
+0.0.0.0 m.nike.com
 
 # Metrodeal
 0.0.0.0 dhdnzx78tqry5.cloudfront.net
 0.0.0.0 cdnjs.cloudflare.com
 0.0.0.0 cdn.jsdelivr.net
 0.0.0.0 metrodeal.org
-0.0.0.0 
+0.0.0.0 metrodeal.com
 0.0.0.0
 0.0.0.0
 0.0.0.0
