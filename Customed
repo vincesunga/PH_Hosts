@@ -2819,6 +2819,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 live.shopee.ph
 0.0.0.0	zconfig.alibabausercontent.com
 0.0.0.0 deo.shopeemobile.com
+0.0.0.0 blog.shopee.ph
+0.0.0.0 seller.shopee.ph
 0.0.0.0 103.115.76.67
 0.0.0.0 152.199.39.10
 
@@ -2850,6 +2852,34 @@ ff02::3 ip6-allhosts
 0.0.0.0 cdn.jsdelivr.net
 0.0.0.0 metrodeal.org
 0.0.0.0 metrodeal.com
+
+# MyShopify
+0.0.0.0 shopify.com
+
+# Netflix
+0.0.0.0 netflix.com
+0.0.0.0 help.neflix.com
+0.0.0.0. www.netflix.com
+0.0.0.0 media.netflix.com
+0.0.0.0 or.netflix.com
+0.0.0.0 assets.nflxext.com
+0.0.0.0 codex.nflxext.com
+0.0.0.0 devices.netflix.com
+
+# IFlix
+0.0.0.0 iflix.com
+0.0.0.0 www.iflix.com
+0.0.0.0 iflix-images.akamaized.net
+0.0.0.0 iflix.onelink.me
+
+# Video Streaming
+0.0.0.0 kissasian.sh
+0.0.0.0 kissanime.ru
+0.0.0.0 vimeo.com
+0.0.0.0 f.vimeocdn.com
+0.0.0.0 yts.mx
+0.0.0.0 img.yts.mx
+
 
 
 # blacklist
