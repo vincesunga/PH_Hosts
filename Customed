@@ -2841,6 +2841,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 nike.com.br
 0.0.0.0 job.nike.com
 0.0.0.0 about.nike.com
+0.0.0.0 nike.com
 
 # Metrodeal
 0.0.0.0 dhdnzx78tqry5.cloudfront.net
