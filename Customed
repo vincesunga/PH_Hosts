@@ -2829,3 +2829,32 @@ ff02::3 ip6-allhosts
 0.0.0.0 spclient.wg.spotify.com
 0.0.0.0 apresolve.spotify.com
 0.0.0.0 spotify.com
+
+# nike
+0.0.0.0 unite.nike.com
+0.0.0.0 static.nike.com
+0.0.0.0 investors.nike.com
+0.0.0.0 agreementservice.svs.nike.com
+0.0.0.0 nike.com.hk
+0.0.0.0 s3.nikecdn.com
+0.0.0.0 c.static-nike.com
+0.0.0.0 nike.com.br
+0.0.0.0 job.nike.com
+0.0.0.0 about.nike.com
+
+# Metrodeal
+0.0.0.0 dhdnzx78tqry5.cloudfront.net
+0.0.0.0 cdnjs.cloudflare.com
+0.0.0.0 cdn.jsdelivr.net
+0.0.0.0 metrodeal.org
+0.0.0.0 
+0.0.0.0
+0.0.0.0
+0.0.0.0
+0.0.0.0
+0.0.0.0
+0.0.0.0
+0.0.0.0
+0.0.0.0
+
+0.0.0.0
