@@ -2801,6 +2801,10 @@ ff02::3 ip6-allhosts
 0.0.0.0 mixch.tv
 0.0.0.0 lobi.co
 
+# PlayStore
+0.0.0.0 play.google.com
+
+
 # Lazada
 0.0.0.0 lazada.com.ph
 0.0.0.0 sellercenter.lazada.com.ph
@@ -2845,6 +2849,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 about.nike.com
 0.0.0.0 nike.com
 0.0.0.0 m.nike.com
+0.0.0.0 www.nike.com
 
 # Metrodeal
 0.0.0.0 dhdnzx78tqry5.cloudfront.net
@@ -2852,6 +2857,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 cdn.jsdelivr.net
 0.0.0.0 metrodeal.org
 0.0.0.0 metrodeal.com
+0.0.0.0 www.metrodeal.com
 
 # MyShopify
 0.0.0.0 shopify.com
@@ -2872,6 +2878,11 @@ ff02::3 ip6-allhosts
 0.0.0.0 iflix-images.akamaized.net
 0.0.0.0 iflix.onelink.me
 
+# iWant
+0.0.0.0 iwant.ph
+0.0.0.0 www.iwant.ph
+
+
 # Video Streaming
 0.0.0.0 kissasian.sh
 0.0.0.0 kissanime.ru
@@ -2879,6 +2890,9 @@ ff02::3 ip6-allhosts
 0.0.0.0 f.vimeocdn.com
 0.0.0.0 yts.mx
 0.0.0.0 img.yts.mx
+0.0.0.0 mydramalist.com
+0.0.0.0 www.mydramalist.com
+
 
 
 
