@@ -4,12 +4,13 @@
 # Netflix
 0.0.0.0 netflix.com
 0.0.0.0 help.neflix.com
-0.0.0.0. www.netflix.com
+0.0.0.0 www.netflix.com
 0.0.0.0 media.netflix.com
 0.0.0.0 or.netflix.com
 0.0.0.0 assets.nflxext.com
 0.0.0.0 codex.nflxext.com
 0.0.0.0 devices.netflix.com
+0.0.0.0 ir.netflix.com
 
 # IFlix
 0.0.0.0 iflix.com
