@@ -1,0 +1,33 @@
+#
+# ===============================================================
+
+# Netflix
+0.0.0.0 netflix.com
+0.0.0.0 help.neflix.com
+0.0.0.0. www.netflix.com
+0.0.0.0 media.netflix.com
+0.0.0.0 or.netflix.com
+0.0.0.0 assets.nflxext.com
+0.0.0.0 codex.nflxext.com
+0.0.0.0 devices.netflix.com
+
+# IFlix
+0.0.0.0 iflix.com
+0.0.0.0 www.iflix.com
+0.0.0.0 iflix-images.akamaized.net
+0.0.0.0 iflix.onelink.me
+
+# iWant
+0.0.0.0 iwant.ph
+0.0.0.0 www.iwant.ph
+
+
+# Video Streaming
+0.0.0.0 kissasian.sh
+0.0.0.0 kissanime.ru
+0.0.0.0 vimeo.com
+0.0.0.0 f.vimeocdn.com
+0.0.0.0 yts.mx
+0.0.0.0 img.yts.mx
+0.0.0.0 mydramalist.com
+0.0.0.0 www.mydramalist.com
