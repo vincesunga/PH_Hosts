@@ -1,27 +1,28 @@
 # Youtube
-youtube.com
-www.youtube.com
-i.ytimg.com
-yt3.ggpht.com
-m.youtube.com
-youtubei.googleapis.com
-youtube.googleapis.com
-www.youtube-nocookie.com
-googlevideos.com
-ystatic.l.google.com
-r3---sn-2aqu-hoalr.gvt1.com
-r2---sn-2aqu-hoalr.googlevideo.com
-r7---sn-2aqu-hoae6.googlevideo.com
-r2---sn-2aqu-hoald.googlevideo.com
-r1---sn-2aqu-hoaez.googlevideo.com
-r1---sn-2aqu-hoalr.googlevideo.com
-pagead2.googlesyndication.com
-adservice.google.com
-securepubads.g.doubleclick.net
-static.doubleclick.net
-googleads.g.doubleclick.net
-s.youtube.com
-s2.youtube.com
-ads.youtube.com
-static.2mdn.net
-s0.2mdn.net
+0.0.0.0 youtube.com
+0.0.0.0 www.youtube.com
+0.0.0.0 i.ytimg.com
+0.0.0.0 yt3.ggpht.com
+0.0.0.0 m.youtube.com
+0.0.0.0 youtubei.googleapis.com
+0.0.0.0 youtube.googleapis.com
+0.0.0.0 www.youtube-nocookie.com
+0.0.0.0 googlevideos.com
+0.0.0.0 youtube-ui.l.google.com
+0.0.0.0 ystatic.l.google.com
+0.0.0.0 r3---sn-2aqu-hoalr.gvt1.com
+0.0.0.0 r2---sn-2aqu-hoalr.googlevideo.com
+0.0.0.0 r7---sn-2aqu-hoae6.googlevideo.com
+0.0.0.0 r2---sn-2aqu-hoald.googlevideo.com
+0.0.0.0 r1---sn-2aqu-hoaez.googlevideo.com
+0.0.0.0 r1---sn-2aqu-hoalr.googlevideo.com
+0.0.0.0 pagead2.googlesyndication.com
+0.0.0.0 adservice.google.com
+0.0.0.0 securepubads.g.doubleclick.net
+0.0.0.0 static.doubleclick.net
+0.0.0.0 googleads.g.doubleclick.net
+0.0.0.0 s.youtube.com
+0.0.0.0 s2.youtube.com
+0.0.0.0 ads.youtube.com
+0.0.0.0 static.2mdn.net
+0.0.0.0 s0.2mdn.net
