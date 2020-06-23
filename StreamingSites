@@ -32,3 +32,8 @@
 0.0.0.0 img.yts.mx
 0.0.0.0 mydramalist.com
 0.0.0.0 www.mydramalist.com
+
+# Twitch TV
+0.0.0.0 twitch.tv
+0.0.0.0 www.twitch.tv
+0.0.0.0 static.twitchcdn.net
