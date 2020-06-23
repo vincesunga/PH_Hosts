@@ -37,6 +37,7 @@
 0.0.0.0 twitch.tv
 0.0.0.0 www.twitch.tv
 0.0.0.0 static.twitchcdn.net
+0.0.0.0 polyfill.twitchsvc.net
 
 # HBO GO
 0.0.0.0 hbogoasia.ph
