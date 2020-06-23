@@ -67,5 +67,8 @@
 0.0.0.0 www.youtube.com
 0.0.0.0 i.ytimg.com
 0.0.0.0 yt3.ggpht.com
-
+0.0.0.0 m.youtube.com
+0.0.0.0 youtubei.googleapis.com
+0.0.0.0 youtube.googleapis.com
+0.0.0.0 www.youtube-nocookie.com
 
