@@ -71,4 +71,6 @@
 0.0.0.0 youtubei.googleapis.com
 0.0.0.0 youtube.googleapis.com
 0.0.0.0 www.youtube-nocookie.com
-
+0.0.0.0 googlevideos.com
+0.0.0.0 youtube-ui.l.google.com
+0.0.0.0 ystatic.l.google.com
