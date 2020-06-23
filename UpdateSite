@@ -1,0 +1,16 @@
+  
+#Microsoft Updates
+# ===============================================================
+
+0.0.0.0 windowsupdate.microsoft.com
+0.0.0.0 microsoft.com
+0.0.0.0 update.microsoft.com
+0.0.0.0 download.windowsupdate.com
+0.0.0.0 test.stats.update.microsoft.com
+0.0.0.0 ntservicepack.microsoft.com
+0.0.0.0 ds.download.windowsupdate.com
+0.0.0.0 ctldl.windowsupdate.com
+0.0.0.0 windowsupdate.com
+0.0.0.0 windowsupdate.microsoft.com
+0.0.0.0 update.microsoft.com
+0.0.0.0 download.windowsupdate.com
